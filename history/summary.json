@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-10": 1
+      "2026-02-10": 17
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/desenvolvedoree.dpdns.org.ico",
     "slug": "segundario",
     "status": "down",
-    "uptime": "0.99%",
-    "uptimeDay": "0.99%",
-    "uptimeWeek": "0.99%",
-    "uptimeMonth": "0.99%",
-    "uptimeYear": "0.99%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-10": 1
+      "2026-02-10": 17
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.desenvolvedoree.qzz.io.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "20.99%",
-    "uptimeDay": "20.99%",
-    "uptimeWeek": "20.99%",
-    "uptimeMonth": "20.99%",
-    "uptimeYear": "20.99%",
+    "uptime": "0.81%",
+    "uptimeDay": "0.81%",
+    "uptimeWeek": "0.81%",
+    "uptimeMonth": "0.81%",
+    "uptimeYear": "0.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-10": 1
+      "2026-02-10": 17
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.desenvolvedoree.qzz.io.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "13.86%",
-    "uptimeDay": "13.86%",
-    "uptimeWeek": "13.86%",
-    "uptimeMonth": "13.86%",
-    "uptimeYear": "13.86%",
+    "uptime": "0.42%",
+    "uptimeDay": "0.42%",
+    "uptimeWeek": "0.42%",
+    "uptimeMonth": "0.42%",
+    "uptimeYear": "0.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-10": 0
+      "2026-02-10": 17
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jogos.desenvolvedoree.qzz.io.ico",
     "slug": "jogos",
     "status": "down",
-    "uptime": "34.58%",
-    "uptimeDay": "34.58%",
-    "uptimeWeek": "34.58%",
-    "uptimeMonth": "34.58%",
-    "uptimeYear": "34.58%",
+    "uptime": "0.88%",
+    "uptimeDay": "0.88%",
+    "uptimeWeek": "0.88%",
+    "uptimeMonth": "0.88%",
+    "uptimeYear": "0.88%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-10": 0
+      "2026-02-10": 17
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudflare.desenvolvedoree.qzz.io.ico",
     "slug": "cloudflare",
     "status": "down",
-    "uptime": "2.64%",
-    "uptimeDay": "2.64%",
-    "uptimeWeek": "2.64%",
-    "uptimeMonth": "2.64%",
-    "uptimeYear": "2.64%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-10": 0
+      "2026-02-10": 17
     }
   },
   {
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-10": 0
+      "2026-02-10": 17
     }
   },
   {
@@ -145,18 +145,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/teste.desenvolvedoree.qzz.io.ico",
     "slug": "teste",
     "status": "down",
-    "uptime": "2.25%",
-    "uptimeDay": "2.25%",
-    "uptimeWeek": "2.25%",
-    "uptimeMonth": "2.25%",
-    "uptimeYear": "2.25%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-10": 0
+      "2026-02-10": 17
     }
   }
 ]
