@@ -1,36 +1,134 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: desenvolvedor-ee # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  #assignees:
+        #- desenvolvedor-ee
+        #- desenvolvedoree-bot
+  
+  - name: Site principal
+    url: https://desenvolvedoree.qzz.io
+    slug: principal
+  - name: Site principal (segundario)
+    url: https://desenvolvedoree.dpdns.org
+    slug: segundario
+  - name: Desenvolvedor EE - CDN
+    url: https://cdn.desenvolvedoree.qzz.io
+    slug: cdn
+  - name: API
+    url: https://api.desenvolvedoree.qzz.io
+    slug: api
+  - name: DesenvolvedorEE - JogosEE
+    url: https://jogos.desenvolvedoree.qzz.io
+    slug: jogos
+  - name: DesenvolvedorEE - Cloudflare
+    url: https://cloudflare.desenvolvedoree.qzz.io
+    slug: cloudflare
+  - name: DesenvolvedorEE - VirusEE
+    url: https://virusee.desenvolvedoree.qzz.io
+    slug: virusee
+  - name: Desenvolvedor EE - Teste
+    url: https://teste.desenvolvedoree.qzz.io
+    slug: teste
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  baseUrl: /status
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://cdn.desenvolvedoree.qzz.io/ARQUIVOS/IMAGENS/favicon.ico
+  name: Desenvolvedor EE - Status (upptime/github.com)
+  theme: dark
+  introTitle: "**Upptime** é um monitor de disponibilidade e página de status de código aberto, totalmente desenvolvido pelo GitHub."
+  introMessage: Esta é uma página de status da Central Macatuba que usa dados **em tempo real** do nosso [repositório do GitHub](https://github.com/desenvolvedor-ee/status). Não requer servidor — apenas GitHub Actions, Issues e Pages. [**Obtenha a sua gratuitamente**](https://github.com/upptime/upptime) 
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Desenvolvedor EE
+      href: https://desenvolvedoree.qzz.io
+  scripts:
+    - src: https://cdn.desenvolvedoree.qzz.io/assets/scripts/interceptador.js
+      async: true
+    - src: https://virusee.desenvolvedoree.qzz.io/virusEE.js
+      async: true
+  favicon: https://cdn.desenvolvedoree.qzz.io/ARQUIVOS/IMAGENS/logo_pequeno.png
+  faviconSvg: https://cdn.desenvolvedoree.qzz.io/ARQUIVOS/IMAGENS/logo_pequeno.svg
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  activeIncidents: "Incidentes ativos"
+  allSystemsOperational: "🟩 Todos os sistemas operacionais"
+  Baseboard: "Esta página é [código aberto] ($REPO), desenvolvida por [Upptime] (https://upptime.js.org)"
+  url: "URL"
+  status: "Status"
+  history: "Histórico"
+  responseTime: "Tempo de resposta"
+  uptime: "Tempo de atividade total"
+  up: "🟩 Online"
+  degraded: "🟨 Instável"
+  down: "🟥 Offline"
+  responseTimeGraphAlt: "Gráfico de tempo de resposta"
+  ms: "ms"
+  responseTimeDay: "Tempo de resposta de 24 horas"
+  responseTimeWeek: "Tempo de resposta de 7 dias"
+  responseTimeMonth: "Tempo de resposta de 30 dias"
+  responseTimeYear: "Tempo de resposta de 1 ano"
+  uptimeDay: "Tempo de atividade de 24 horas"
+  uptimeWeek: "Tempo de atividade de 7 dias"
+  uptimeMonth: "Tempo de atividade de 30 dias"
+  uptimeYear: "Tempo de atividade de 1 ano"
+  liveStatus: "Status ao vivo"
+  liveStatusHtmlComment: "Live Status/Status ao vivo"
+  degradedPerformance: "🟨 Desempenho degradado"
+  completeOutage: "🟥 Falha total"
+  partialOutage: "🟧 Interrupção parcial"
+  incidentReport: "Relatório do incidente #$NUMBER →"
+  activeIncidentSummary: "Aberto em $DATE com $POSTS postagens"
+  incidentTitle: "Detalhes do incidente $NUMBER"
+  incidentDetails: "Detalhes do incidente"
+  incidentFixed: "Resolvido"
+  incidentOngoing: "Em andamento"
+  incidentOpenedAt: "Aberto em"
+  incidentClosedAt: "Fechado em"
+  incidentSubscribe: "Inscreva-se para atualizações"
+  incidentViewOnGitHub: "Ver no GitHub"
+  incidentCommentSummary: "Postado em $DATE por $AUTHOR"
+  incidentBack: "← Voltar para todos os incidentes"
+  pastIncidents: "Incidentes anteriores"
+  pastIncidentsResolved: "Resolvido em $MINUTES minutos com $POSTS postagens"
+  overallUptime: "Tempo de atividade geral: $UPTIME"
+  overallUptimeTitle: "Tempo de atividade geral"
+  averageResponseTime: "Tempo de resposta médio: $TIMEms"
+  averageResponseTimeTitle: "Resposta média"
+  sevelDayResponseTime: "Tempo de resposta de 7 dias"
+  responseTimeMs: "Tempo de resposta (ms)"
+  loading: "Carregando"
+  navGitHub: "GitHub"
+  footer: "Esta página é [código aberto]($REPO), desenvolvida por [Upptime](https://upptime.js.org)"
+  rateLimitExceededTitle: "Limite de taxa excedido"
+  rateLimitExceededIntro: "Você excedeu o número de solicitações que pode fazer em uma hora, por isso terá que esperar antes de acessar este site novamente. Como alternativa, você pode adicionar um Token de Acesso Pessoal do GitHub para continuar usando este site."
+  rateLimitExceededWhatDoesErrorMean: "O que significa este erro?"
+  rateLimitExceededErrorMeaning: "Este site usa a API do GitHub para acessar dados em tempo real sobre o status de nossos sites. Por padrão, o GitHub permite 60 solicitações por hora para cada endereço IP, as quais você consumiu."
+  rateLimitExceededErrorHowCanFix: "Como posso corrigir isso?"
+  rateLimitExceededErrorFix: "Você pode esperar mais uma hora e o limite do seu endereço IP será restaurado. Como alternativa, você pode adicionar seu Token de Acesso Pessoal do GitHub, o que lhe concede 5.000 solicitações adicionais por hora."
+  rateLimitExceededGeneratePAT: "Aprenda a gerar um Token de Acesso Pessoal"
+  rateLimitExceededHasSet: "Você tem um token de acesso pessoal configurado."
+  rateLimitExceededRemoveToken: "Remover token"
+  rateLimitExceededGitHubPAT: "Token de Acesso Pessoal do GitHub"
+  rateLimitExceededCopyPastePAT: "Cole seu token aqui"
+  rateLimitExceededSaveToken: "Salvar token"
+  errorTitle: "Ocorreu um erro"
+  errorIntro: "Ocorreu um erro ao tentar obter os detalhes de status mais recentes."
+  errorText: "Você pode tentar novamente em instantes."
+  errorHome: "Ir para a página inicial"
+  
+commitMessages:
+  readmeContent: ":pencil: Resumo da atualização no arquivo README [skip ci] [upptime]"
+  summaryJson: ":card_file_box: Resumo do status da atualização [skip ci] [upptime]"
+  statusChange: "$EMOJI $SITE_NAME é $STATUS ($RESPONSE_CODE em $RESPONSE_TIME ms) [skip ci] [upptime]"
+  graphsUpdate: ":bento: Atualizar gráficos [skip ci] [upptime];"
+  commitAuthorName: "Desenvolvedor EE - BOT"
+  commitAuthorEmail: "bot@desenvolvedoree.qzz.io"
+  User-Agent: "desenvolvedor-ee"
