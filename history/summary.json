@@ -4,11 +4,11 @@
     "url": "https://desenvolvedoree.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/desenvolvedoree.qzz.io.ico",
     "slug": "principal",
-    "status": "down",
+    "status": "up",
     "uptime": "52.50%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "91.86%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "52.50%",
     "time": 0,
     "timeDay": 0,
@@ -107,7 +107,7 @@
       "2026-05-23": 60,
       "2026-07-12": 60,
       "2026-08-07": 38,
-      "2026-08-08": 47
+      "2026-08-08": 79
     }
   },
   {
@@ -127,7 +127,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 860,
+      "2026-08-08": 893,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -314,11 +314,11 @@
     "url": "https://cdn.desenvolvedoree.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.desenvolvedoree.qzz.io.ico",
     "slug": "cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "52.55%",
-    "uptimeDay": "94.24%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "92.03%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "52.55%",
     "time": 0,
     "timeDay": 0,
@@ -415,7 +415,7 @@
       "2026-05-22": 9,
       "2026-05-21": 16,
       "2026-08-07": 38,
-      "2026-08-08": 45
+      "2026-08-08": 77
     }
   },
   {
@@ -435,7 +435,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 860,
+      "2026-08-08": 893,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -623,11 +623,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jogos.desenvolvedoree.qzz.io.ico",
     "slug": "jogos",
     "status": "up",
-    "uptime": "52.51%",
+    "uptime": "52.52%",
     "uptimeDay": "97.09%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "52.51%",
+    "uptimeYear": "52.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -743,7 +743,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 860,
+      "2026-08-08": 893,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -931,11 +931,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/virusee.desenvolvedoree.qzz.io.ico",
     "slug": "virusee",
     "status": "up",
-    "uptime": "52.51%",
+    "uptime": "52.52%",
     "uptimeDay": "97.17%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "52.51%",
+    "uptimeYear": "52.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1051,7 +1051,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 861,
+      "2026-08-08": 893,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
