@@ -4,10 +4,10 @@
     "url": "https://desenvolvedoree.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/desenvolvedoree.qzz.io.ico",
     "slug": "principal",
-    "status": "up",
+    "status": "down",
     "uptime": "52.50%",
-    "uptimeDay": "94.15%",
-    "uptimeWeek": "99.16%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "52.50%",
     "time": 0,
@@ -107,7 +107,7 @@
       "2026-05-23": 60,
       "2026-07-12": 60,
       "2026-08-07": 38,
-      "2026-08-08": 46
+      "2026-08-08": 47
     }
   },
   {
@@ -127,7 +127,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 833,
+      "2026-08-08": 860,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -314,10 +314,10 @@
     "url": "https://cdn.desenvolvedoree.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.desenvolvedoree.qzz.io.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "52.55%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "99.19%",
+    "uptimeDay": "94.24%",
+    "uptimeWeek": "99.18%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "52.55%",
     "time": 0,
@@ -415,7 +415,7 @@
       "2026-05-22": 9,
       "2026-05-21": 16,
       "2026-08-07": 38,
-      "2026-08-08": 44
+      "2026-08-08": 45
     }
   },
   {
@@ -435,7 +435,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 833,
+      "2026-08-08": 860,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -743,7 +743,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 833,
+      "2026-08-08": 860,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -1051,7 +1051,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 833,
+      "2026-08-08": 861,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
