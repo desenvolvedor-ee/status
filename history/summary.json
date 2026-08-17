@@ -4,11 +4,11 @@
     "url": "https://desenvolvedoree.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/desenvolvedoree.qzz.io.ico",
     "slug": "principal",
-    "status": "down",
+    "status": "up",
     "uptime": "54.76%",
-    "uptimeDay": "92.62%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "99.21%",
+    "uptimeDay": "91.88%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "54.76%",
     "time": 0,
     "timeDay": 0,
@@ -109,7 +109,7 @@
       "2026-08-07": 38,
       "2026-08-08": 79,
       "2026-08-15": 122,
-      "2026-08-17": 106
+      "2026-08-17": 117
     }
   },
   {
@@ -129,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 1378,
+      "2026-08-17": 1390,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -325,11 +325,11 @@
     "url": "https://cdn.desenvolvedoree.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.desenvolvedoree.qzz.io.ico",
     "slug": "cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "54.81%",
-    "uptimeDay": "93.03%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "92.28%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "54.81%",
     "time": 0,
     "timeDay": 0,
@@ -428,7 +428,7 @@
       "2026-08-07": 38,
       "2026-08-08": 77,
       "2026-08-15": 120,
-      "2026-08-17": 101
+      "2026-08-17": 112
     }
   },
   {
@@ -448,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 1378,
+      "2026-08-17": 1390,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -644,11 +644,11 @@
     "url": "https://jogos.desenvolvedoree.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/jogos.desenvolvedoree.qzz.io.ico",
     "slug": "jogos",
-    "status": "down",
+    "status": "up",
     "uptime": "54.82%",
-    "uptimeDay": "93.26%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "92.49%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "54.82%",
     "time": 0,
     "timeDay": 0,
@@ -747,7 +747,7 @@
       "2026-05-21": 16,
       "2026-08-08": 42,
       "2026-08-15": 30,
-      "2026-08-17": 98
+      "2026-08-17": 109
     }
   },
   {
@@ -767,7 +767,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 1378,
+      "2026-08-17": 1390,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -1086,7 +1086,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 1378,
+      "2026-08-17": 1390,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
