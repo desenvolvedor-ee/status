@@ -4,12 +4,12 @@
     "url": "https://desenvolvedoree.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/desenvolvedoree.qzz.io.ico",
     "slug": "principal",
-    "status": "up",
-    "uptime": "55.67%",
-    "uptimeDay": "96.91%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "55.67%",
+    "status": "down",
+    "uptime": "55.73%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "97.28%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "55.73%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -112,7 +112,8 @@
       "2026-08-17": 117,
       "2026-08-20": 109,
       "2026-08-19": 0,
-      "2026-08-21": 44
+      "2026-08-21": 44,
+      "2026-08-22": 4
     }
   },
   {
@@ -324,7 +325,7 @@
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1403,
-      "2026-08-22": 100,
+      "2026-08-22": 485,
       "2026-08-21": 1440
     }
   },
@@ -333,12 +334,12 @@
     "url": "https://cdn.desenvolvedoree.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.desenvolvedoree.qzz.io.ico",
     "slug": "cdn",
-    "status": "up",
-    "uptime": "55.74%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "97.50%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "55.74%",
+    "status": "down",
+    "uptime": "55.80%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "55.80%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -439,7 +440,8 @@
       "2026-08-17": 112,
       "2026-08-19": 17,
       "2026-08-20": 33,
-      "2026-08-21": 42
+      "2026-08-21": 42,
+      "2026-08-22": 2
     }
   },
   {
@@ -651,7 +653,7 @@
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1403,
-      "2026-08-22": 100,
+      "2026-08-22": 485,
       "2026-08-21": 1440
     }
   },
@@ -660,12 +662,12 @@
     "url": "https://jogos.desenvolvedoree.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/jogos.desenvolvedoree.qzz.io.ico",
     "slug": "jogos",
-    "status": "up",
-    "uptime": "55.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.48%",
+    "status": "down",
+    "uptime": "55.83%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.77%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "55.77%",
+    "uptimeYear": "55.83%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -764,7 +766,8 @@
       "2026-08-08": 42,
       "2026-08-15": 30,
       "2026-08-17": 109,
-      "2026-08-19": 15
+      "2026-08-19": 15,
+      "2026-08-22": 1
     }
   },
   {
@@ -784,7 +787,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 100,
+      "2026-08-22": 485,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -986,11 +989,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/virusee.desenvolvedoree.qzz.io.ico",
     "slug": "virusee",
     "status": "up",
-    "uptime": "55.76%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "98.25%",
+    "uptime": "55.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.54%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "55.76%",
+    "uptimeYear": "55.82%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1302,7 +1305,7 @@
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1403,
-      "2026-08-22": 100,
+      "2026-08-22": 485,
       "2026-08-21": 1440
     }
   }
