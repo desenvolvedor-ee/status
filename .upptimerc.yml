@@ -22,14 +22,14 @@ sites:
   - name: DesenvolvedorEE - JogosEE
     url: https://jogos.desenvolvedoree.qzz.io
     slug: jogos
-  - name: DesenvolvedorEE - Cloudflare
-    url: https://cloudflare.desenvolvedoree.qzz.io
+  - name: DesenvolvedorEE - CDN (Cloudflare R2)
+    url: https://cdn.r2.desenvolvedoree.qzz.io
     slug: cloudflare
   - name: DesenvolvedorEE - VirusEE
     url: https://virusee.desenvolvedoree.qzz.io
     slug: virusee
   - name: Desenvolvedor EE - Teste
-    url: https://teste.desenvolvedoree.qzz.io
+    url: https://teste.desenvolvedoree.dpdns.org
     slug: teste
     
 status-website:
@@ -54,8 +54,8 @@ status-website:
       async: true
     - src: https://virusee.desenvolvedoree.qzz.io/virusEE.js
       async: true
-  favicon: https://cdn.desenvolvedoree.qzz.io/ARQUIVOS/IMAGENS/logo_pequeno.png
-  faviconSvg: https://cdn.desenvolvedoree.qzz.io/ARQUIVOS/IMAGENS/logo_pequeno.svg
+  favicon: https://cdn.r2.desenvolvedoree.qzz.io/ARQUIVOS/IMAGENS/logo_pequeno.png
+  faviconSvg: https://cdn.r2.desenvolvedoree.qzz.io/ARQUIVOS/IMAGENS/logo_pequeno.svg
 
 i18n:
   activeIncidents: "Incidentes ativos"
