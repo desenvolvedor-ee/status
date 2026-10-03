@@ -16,8 +16,11 @@ sites:
     url: https://api.desenvolvedoree.qzz.io
     slug: api
   - name: DesenvolvedorEE - JogosEE
+    url: https://jogosee.desenvolvedoree.qzz.io
+    slug: jogosee
+  - name: DesenvolvedorEE - JogosEE (Servidor)
     url: https://jogos.desenvolvedoree.qzz.io
-    slug: jogos
+    slug: jogosee-server
   - name: DesenvolvedorEE - CDN (R2)
     url: https://cdn.r2.desenvolvedoree.qzz.io
     slug: cloudflare
@@ -29,8 +32,8 @@ sites:
     slug: teste
 
 assignees:
-    desenvolvedor-ee
-    desenvolvedoree-bot
+  desenvolvedor-ee
+  desenvolvedoree-bot
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -41,7 +44,7 @@ status-website:
   name: Desenvolvedor EE - Status (upptime/github.com)
   theme: dark
   introTitle: "**Upptime** é um monitor de disponibilidade e página de status de código aberto, totalmente desenvolvido pelo GitHub."
-  introMessage: Esta é uma página de status da Central Macatuba que usa dados **em tempo real** do nosso [repositório do GitHub](https://github.com/desenvolvedor-ee/status). Não requer servidor — apenas GitHub Actions, Issues e Pages. [**Obtenha a sua gratuitamente**](https://github.com/upptime/upptime) 
+  introMessage: Esta é uma página de status do Desenvolvedor EE que usa dados **em tempo real** do nosso [repositório do GitHub](https://github.com/desenvolvedor-ee/status). Não requer servidor — apenas GitHub Actions, Issues e Pages. [**Obtenha a sua gratuitamente**](https://github.com/upptime/upptime) 
   navbar:
     - title: Status
       href: /
