@@ -22,7 +22,7 @@ sites:
     url: https://jogos.desenvolvedoree.qzz.io
     slug: jogosee-server
   - name: DesenvolvedorEE - CDN (R2)
-    url: https://cdn.r2.desenvolvedoree.qzz.io
+    url: https://cdn.r2.desenvolvedoree.qzz.io/status.txt
     slug: cloudflare
   - name: DesenvolvedorEE - VirusEE
     url: https://virusee.desenvolvedoree.qzz.io
