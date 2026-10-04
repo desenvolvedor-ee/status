@@ -1,7 +1,7 @@
-url: https://cdn.r2.desenvolvedoree.qzz.io
-status: down
-code: 404
-responseTime: 192
-lastUpdated: 2026-10-04T02:28:54.363Z
+url: https://cdn.r2.desenvolvedoree.qzz.io/status.txt
+status: up
+code: 200
+responseTime: 177
+lastUpdated: 2026-10-04T12:00:38.860Z
 startTime: 2026-02-10T00:37:17.786Z
 generator: Upptime <https://github.com/upptime/upptime>
